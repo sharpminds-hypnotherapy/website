@@ -3,7 +3,7 @@ title:              Sharp Minds Hypnotherapy
 bio:                "Hypnotherapy is used to treat a wide range of conditions - physical, mental & emotional. Julie Sharp treats patients in Winchester & London. Find out more."
 description:        "Hypnotherapy is used to treat a wide range of conditions - physical, mental & emotional. Julie Sharp treats patients in Winchester & London. Find out more."
 locale:             en_GB
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sharpminds-hypnotherapy.github.io" # the base hostname & protocol for your site
 
 
