@@ -1,0 +1,94 @@
+# Site
+title:              Sharp Minds Hypnotherapy
+bio:                "Hypnotherapy is used to treat a wide range of conditions - physical, mental & emotional. Julie Sharp treats patients in Winchester & London. Find out more."
+description:        "Hypnotherapy is used to treat a wide range of conditions - physical, mental & emotional. Julie Sharp treats patients in Winchester & London. Find out more."
+locale:             en_GB
+baseurl: "/jekyll-theme-massively" # the subpath of your site, e.g. /blog
+url: "https://chrisesharp.github.io" # the base hostname & protocol for your site
+
+
+# Social
+analytics-id:       "default"
+linkedin:           SharpJulie
+facebook:           SharpMindsHypnotherapy
+
+
+# personal
+location:           Winchester, SO22 5HL
+phone:              07807-054-706
+email:              julie@sharpmindshypnotherapy.co.uk 
+# Other
+background_image:   "/images/bg.jpg"
+# Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
+slapform_thankyou_page: /thank-you
+
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      permalink: "/blog/:title/"
+      layout: post
+      author: "Julie Sharp"
+  - scope:
+      path: ''
+      type: faq
+    values:
+      layout: faq
+  - scope:
+      path: ''
+      type: programmes
+    values:
+      permalink: "/programmes/:title/"
+      layout: page
+      author: "Julie Sharp"
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Gems
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-include-cache
+  - octopress-quote-tag
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+collections:
+  faq:
+    output: false
+  feedback:
+    output: false
+  programmes:
+    output: true
+    permalink: pretty
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]

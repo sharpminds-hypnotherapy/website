@@ -1,0 +1,21 @@
+---
+layout: page
+title: Hypnotherapy Client Feedback - Sharp Minds Hypnotherapy
+description: Not sure if hypnotherapy works? Read comments from our hypnotherapy client feedback forms. If it worked for them it can work for you.
+sitemap:
+    priority: 0.7
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<header class="major">
+	<h1>Client Feedback</h1>
+</header>
+<!-- Text stuff -->
+<p style="text-align: justify;">A selection of comments from our hypnotherapy client feedback questionnaires:
+</p>
+<section>
+    {% for item in site.feedback reversed %}
+        <hr>
+        {{ item }}
+    {% endfor %}
+</section>

@@ -1,0 +1,24 @@
+---
+layout: page
+title: Hypnotherapy FAQs Answered - Sharp Minds Hypnotherapy
+description: Perhaps one of these hypnotherapy FAQs is something you are curious about? We answer the what-ifs, the hows and the will-I questions here.
+sitemap:
+    priority: 0.7
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<header class="major">
+	<h1>Frequently Asked Questions</h1>
+</header>
+<!-- Text stuff -->
+<p style="text-align: justify;">People often have questions about what hypnotherapy actually involves so here are the answers 
+    to some <strong>hypnotherapy FAQs</strong>. You might just find the 
+    right answer here, but if not, please feel free to 
+    <strong>contact me on 08707 054 706</strong> or email me 
+    at <strong>julie@sharpmindshypnotherapy.co.uk</strong>.
+</p>
+<section>
+    {% for faq in site.faq %}
+        {{ faq }}
+    {% endfor %}
+</section>
