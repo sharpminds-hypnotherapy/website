@@ -18,7 +18,7 @@ location:           Winchester, SO22 5HL
 phone:              07807-054-706
 email:              julie@sharpmindshypnotherapy.co.uk 
 # Other
-background_image:   "/images/bg.jpg"
+background_image:   "/images/pic01.jpg"
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
