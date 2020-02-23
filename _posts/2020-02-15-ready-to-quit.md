@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Ready to Stop Smoking?
+date:   2020-02-16
+excerpt: Here are 6 pointers to help you on your way.
+image: "/images/gras-grun-6ScKApDyAMQ-unsplash.jpg"
+---
+## Ready to Stop Smoking? – Here are 6 pointers to help you on your way
+
+One of the things which I’d like to do now is provide some pointers which will help you on your way. Take a look at these 6 pointers during the coming week. It’s a little bit like planning for a holiday or Christmas. When tackling something new or big, thinking in bite-sized chunks helps. The fifth point is one which I suspect will stick in your mind, because is focuses on physiological aspects of healing and what is going on inside as nicotine leaves your body, hour by hour. For many of the people I will help, it’s the one they read over and over.
+
+Here we go…
+
+1. Prepare your moment to quit. To quit just as you are about to go on holiday with half a dozen smokers or after a relationship break-up is likely to set yourself up for failure, not success. It might be an idea to plan it to coincide with a completely different place or routine, something or somewhere which has no connection for you with smoking. Take time, make time and plan your moment thoughtfully and mindfully.
+2. Next plan your mindset just as thoroughly – assume you will succeed. We get what we look for (it’s the law of attraction) and there are more research papers on this than the fabled Imelda Marcos’ shoe collection. Research indicates it takes just 28 days to completely break a habit and, according to the NHS, if you stop smoking for 28 days, you're five times more likely to stop smoking for good. Victory – packing in the packets – starts in the mind!
+3. Make time every day to visualise yourself living a more energetic and healthy life, free from smoking. Think about how you have felt in the past when you have achieved a longed-for goal, or been particularly focused and proud of a success. Start behaving like a non-smoker before you’ve even quit and become one – your subconscious mind cannot tell the difference between what is real and what is imagined.
+4. Only quit when it feels right. Most clients I see have had endless repeat helpings in the form of well meaning and ‘kindly’ advice about kicking the habit. Smokers generally don’t need reminding about the dangers of smoking, so don’t be tempted to join in on ganging up against yourself or you may risk increasing unconscious resistance. You don’t need to beat yourself anymore about this. You are taking steps to quitting this habit. Habits are subconscious behaviours, largely unresponsive to logic and not easily changed through conscious effort alone. But when done properly and the time is right, you won’t even feel that you’re giving anything up that you still value.
+5. Welcome sensations of physical withdrawal as signs of your body healing. They may be unpleasant but listen to what your body is telling you because it’s booting out impurities. Your body hates nicotine and tries to mend itself as quickly as it can. Within 20 minutes your blood pressure and pulse rate will have returned to normal; within 12 hours your blood oxygen and carbon monoxide levels will have fallen to within ‘normal’ range; within 48 hours, damaged nerve endings will be starting to mend and smell and taste returning. Within just 72 hours of smoking your last cigarette, all traces of nicotine are gone from your system.
+6. Don’t impose unrealistic targets because then they’re stressful rather than motivational. Some people give up straight away; some reduce steadily down to zero; some falter and then grind to a halt when the habit is completely gone. All reach their goal to give up the smokes. If you want long-term success, you have to do it your way. No two sessions I run are the same. Every person I work with is different.
+If you are ready to give up the smokes and swop them for fitness and health, then book an appointment now.

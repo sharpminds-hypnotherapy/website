@@ -3,12 +3,12 @@ layout: post
 title:  The Mind-Body Link
 date:   2015-1-31
 excerpt: The mind body link has long been acknowledged, but is perhaps counter-cultural in the Western world which focuses almost exclusively on the biochemistry of the body often to the exclusion of the health of the patient’s mind. However, promoting bodily health without encouraging health of the mind is an exercise in futility.
-image: "/images/pic02.jpg"
+image: "/images/mindbody.jpg"
 ---
 
 We have all heard of people who believe they are ill and show real signs of their imagined affliction. Almost every doctor has witnessed or heard of reports of spontaneous and inexplicable remission from diseases where the prognosis had been utterly without hope.
 
->But did you know that it has been shown that an individual with multiple personality disorder (or Dissociative Identity Disorder as it is now known) can present both as a diabetic and a non-diabetic depending on which personality is dominant?  That is to say, a single body, with a single pancreas can create an insulin deficiency or sufficiency purely based on what the mind believes!
+But did you know that it has been shown that an individual with multiple personality disorder (or Dissociative Identity Disorder as it is now known) can present both as a diabetic and a non-diabetic depending on which personality is dominant?  That is to say, a single body, with a single pancreas can create an insulin deficiency or sufficiency purely based on what the mind believes!
 
 So a belief, which occurs only in the mind, can manifest physically in the body – for good or ill. An example of a belief leading to a negative outcome can be seen in research conducted in America which shows that Chinese-Americans die significantly earlier than normal if they have a combination of disease and birth year that Chinese astrology and Chinese medicine consider ill-fated.  An example of a belief leading to a positive outcome is that of a teenage boy treated by Dr Albert Mason at the Queen Victoria Hospital in London where he was cured (with hypnosis) from what was believed to be a severe case of warts which covered his body almost entirely.  Only later did the doctor and his patient discover that the boy’s condition was, in fact, a potentially lethal case of congenital ichthyosis which was not known to be curable with hypnosis.
 
