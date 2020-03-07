@@ -3,7 +3,7 @@ layout: post
 title:  Ethical Standards
 date:   2020-02-15
 excerpt: I am registered with the CNHC (Complementary and Natural Healthcare Council), the GHR, the ANLP and am fully insured.
-image: "/images/Ethical-Standards-example.jpg"
+image: "images/Ethical_Standards.png"
 ---
 
 ## ETHICAL STANDARDS
