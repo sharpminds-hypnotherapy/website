@@ -69,27 +69,23 @@ I am also a trained **Virtual Gastric Band** therapist, am a **Parts Therapy** p
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | relative_url }}" alt="" /></span>
-
 I am non-judgemental in life generally, but particularly so in hypnotherapy. In a sense (and with no disrespect), I don’t care what has caused an issue in my clients’ lives, or what has happened to them in the past. Whatever it was, it didn’t kill them! I have no interest in drawing a particular conclusion about their predicament; my interest lies in their future, in helping them **cut the ties that bind them (consciously or subconsciously) to past events**. I am here to affirm life not criticize it; in helping my clients **achieve freedom from the thoughts and behaviours** that they feel have been holding them back. We all deserve to **live the best lives we possibly can** and my happiness comes from their [success](../client-feedback/index.html).
-
-  <div class="row">
-  <div class="3u$(small)">
+<div class="row">
+  <div class="4u">
     <img src="../images/logos/GHR-logo.jpg" class="img-responsive" alt="HSH Accredited Practitioner">
     <br>
     <img src="../images/logos/BLAST Practitioner Logo_2018.jpg" class="img-responsive" alt="BLAST Practitioner">
     <br>
     <img src="../images/logos/GHSC-logo-300x91.jpg" class="img-responsive" alt="GHSC Validated Practitioner">
   </div>
-  <div class="3u$(small)">
+  <div class="4u">
     <img src="../images/logos/HSOS diploma badge.jpg" class="img-responsive" alt="HSOS Diploma">
-  </div>
-  <div class="3u$(small)">
-    <img src="../images/logos/80.-CNHC-Quality_Mark-300x206.jpg" class="img-responsive" alt="CNHC Quality Mark">
-     </div>
-    <div class="3u$(small)">
+    <br>
     <img src="../images/logos/CRSST Full.JPG" class="img-responsive" alt="CRSST">
-    </div>
-<div class="3u$(small)">
+  </div>
+  <div class="4u$">
+    <img src="../images/logos/80.-CNHC-Quality_Mark-300x206.jpg" class="img-responsive" alt="CNHC Quality Mark">
+    <br>
     <img src="../images/logos/ANLP-Logo.jpg" class="img-responsive" alt="ANLP">
   </div>
+</div>
