@@ -74,21 +74,31 @@ sitemap:
 
 				<!-- Posts -->
 				<section class="posts">
-				{% for post in site.posts limit:3 %}
-				{% assign mod3 = forloop.index | modulo: 3 %}
+				{% for article in site.articles limit:3 %}
+					<article>
+						<header>
+							<h2><a href="{{ article.url | relative_url }}">{{ article.title }}</a></h2>
+						</header>
+						<a href="{{ article.url | relative_url }}" class="image fit"><img src="{{ article.image | relative_url }}" alt="" /></a>
+						<p>{{ article.excerpt }}</p>
+						<ul class="actions">
+							<li><a href="{{ article.url | relative_url }}" class="button">Read More</a></li>
+						</ul>
+					</article>
+				{% endfor %}
+				{% for post in site.posts limit:1 %}
 					<article>
 						<header>
 							<span class="date">{{ post.date | date_to_string }}</span>
 							<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 						</header>
 						<a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
-						<p>{{ post.excerpt }}</p>
+						<p>{{ article.excerpt }}</p>
 						<ul class="actions">
-							<li><a href="{{ post.url | relative_url }}" class="button">Read More</a></li>
+							<li><a href="{{ post.url | relative_url }}" class="button">Latest Blog</a></li>
 						</ul>
 					</article>
 				{% endfor %}
-
 				</section>
 
 				<!-- Footer -->
