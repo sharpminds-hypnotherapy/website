@@ -43,6 +43,13 @@ defaults:
       permalink: "/programmes/:title/"
       layout: page
       author: "Julie Sharp"
+  - scope:
+      path: ''
+      type: articles
+    values:
+      permalink: "/articles/:title/"
+      layout: page
+      author: "Julie Sharp"
 
 # Jekyll
 permalink:          /blog/:title/
@@ -82,6 +89,9 @@ collections:
   feedback:
     output: false
   programmes:
+    output: true
+    permalink: pretty
+  articles:
     output: true
     permalink: pretty
 

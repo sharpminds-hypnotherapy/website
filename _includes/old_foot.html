@@ -20,20 +20,17 @@
     </form>
   </section>
   <section class="split contact">
-    <section>
+    <section class="alt">
       <h3>Location</h3>
-      <div id="map" style="width:300px;height:300px;"></div>
-      <script>
-      function initMap() {
-        var sharpminds = {lat: 51.070107, lng: -1.331266};
-        var map = new google.maps.Map(
-            document.getElementById('map'), {zoom: 16, center: sharpminds});
-        var marker = new google.maps.Marker({position: sharpminds, map: map});
-      }
-      </script>
-      <script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCf8biUEDMpoWjCwNbkT9UOltgXjMdCKzc&callback=initMap">
-      </script>
+      <p>{{site.location}}</p>
+    </section>
+    <section>
+      <h3>Phone</h3>
+      <p><a href="tel:{{site.phone}}">{{site.phone}}</a></p>
+    </section>
+    <section id="contact">
+      <h3>Email</h3>
+      <p><a href="mailto:{{site.email}}">{{site.email}}</a></p>
     </section>
     <section>
       <h3>Social</h3>

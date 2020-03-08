@@ -288,23 +288,23 @@
 		}
 
 		::-webkit-input-placeholder {
-			color: _palette($p, fg-light) !important;
+			color: _palette($p, bg) !important;
 		}
 
 		:-moz-placeholder {
-			color: _palette($p, fg-light) !important;
+			color: _palette($p, bg) !important;
 		}
 
 		::-moz-placeholder {
-			color: _palette($p, fg-light) !important;
+			color: _palette($p, bg) !important;
 		}
 
 		:-ms-input-placeholder {
-			color: _palette($p, fg-light) !important;
+			color: _palette($p, bg) !important;
 		}
 
 		.formerize-placeholder {
-			color: _palette($p, fg-light) !important;
+			color: _palette($p, bg) !important;
 		}
 	}
 

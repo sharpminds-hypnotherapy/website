@@ -23,88 +23,104 @@ sitemap:
 	<body class="is-loading">
 
 		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+		<div id="wrapper" class="fade-in">
 
-				<!-- Intro -->
-					<div id="intro">
-						<img src="{{ "/images/logos/LOGO-SM-300x226.png" | relative_url }}">
-            			<!-- <h1>{{site.title}}</h1> -->
-						<h2>FRIENDLY | NON-JUDGEMENTAL | CARING</h2>
-						<p>Hypnotherapy is used to treat a wide range of conditions - physical, mental & emotional.</p>
-						<p>Julie Sharp treats patients in Winchester & London.</p>
-						<p>Find out more.</p>
+			<!-- Intro -->
+			<div id="intro">
+				<img src="{{ "/images/logos/LOGO-SM-no-cloud.png" | relative_url }}">
+				<!-- <h1>{{site.title}}</h1> -->
+				<h2>FRIENDLY | NON-JUDGEMENTAL | CARING</h2>
+				<p>Hypnotherapy is used to treat a wide range of conditions - physical, mental & emotional.</p>
+				<p>Julie Sharp treats patients in Winchester & London.</p>
+				<p>Find out more.</p>
+				<ul class="actions">
+					<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+				</ul>
+			</div>
+
+			<!-- Header -->
+			<header id="header">
+				<a href="{{ "/" | relative_url }}" class="logo">
+					{{site.title}}
+				</a>
+			</header>
+
+			<!-- Nav -->
+			{% include nav.html %}
+
+			<!-- Main -->
+			<div id="main">
+				<!-- Featured Post -->
+					<article class="post featured">
+						<header class="major">
+							<h2><a href="#header">Hypnotherapy</a></h2>
+						</header>
+						<div class="row">
+							<div class="6u 12u$(small)">
+								<a href="{{ "/about" | relative_url }}"> <img src="{{ "/images/julie_sharp.jpg" | relative_url }}" alt="" style="width:400px;height:460px;"/></a>
+								<p><i>Whether you are completely new to hypnotherapy or a life-long advocate,this website will hopefully provide you with the answers to any questions you have.</i></p>
+							</div>
+							<div class="6u$ 12u$(small)">
+								<img id="advert" src="{{ "/images/SM-advert.png" | relative_url }}" alt="" style="width:411px;height:581px;"/>
+							</div>
+						<p style="text-align: justify;">I have provided an <span style="text-decoration: underline;"><strong><a href="hypnotherapy-faq/index.html">FAQ</a></strong></span> 
+							(Frequently Asked Questions) page which provides answers to some of the most commonly asked questions such as 
+							<strong>‘What if I get stuck in hypnosis?’</strong> or <strong>‘Will it work for me?’</strong>. 
+							There is also information on me, your <span style="text-decoration: underline;"><strong><a href="{{ "/about/" | relative_url}}">Therapist</a></strong></span> , and my qualifications and personal motivations for practising hypnotherapy.</p>
+						<p style="text-align: justify;"><a href="https://en.wikipedia.org/wiki/Hypnotherapy">Hypnosis</a> is a non-invasive therapeutic intervention, that sits under the Psychological Therapies umbrella. It is perhaps best described as both a science and an art. If you are interested in this aspect of hypnosis, then you can check out my page on <span style="text-decoration: underline;"><strong><a href="blog/mind-body-link/">The Mind-Body Link</a></strong></span> . If you are more interested in the results it can produce, then you may like to check out my <span style="text-decoration: underline;"><strong><a href="client-feedback/index.html">Feedback</a></strong></span> page.</p>
+						<p style="text-align: justify;">I have a therapy room in Winchester and cover a wide range of presenting symptoms including stress and anxiety, weight loss, smoking cessation and depression. For a full list please see my page on <span style="text-decoration: underline;"><strong><a href="hypnotherapy-uses/index.html">Common Uses</a></strong></span> of hypnotherapy.</p>
+						<p style="text-align: justify;">Should you have any questions or wish to make an appointment for a telephone consultation, please <a href="#advert"><strong>contact me by phone</strong></a> or  <a href="#footer"><strong>email</strong></a>.</p>
+					</article>
+				<!-- Video -->
+				<section class="post featured"">
+					<iframe width="772" height="431" 
+						src="https://www.youtube-nocookie.com/embed/zHDwcn6BsPU?rel=0;modestbranding=1" 
+						frameborder="0"
+						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+						allowfullscreen>
+					</iframe>
+				</section>
+				<!-- Posts -->
+				<section class="posts">
+				{% for article in site.articles limit:3 %}
+					<article>
+						<header>
+							<h2><a href="{{ article.url | relative_url }}">{{ article.title }}</a></h2>
+						</header>
+						<a href="{{ article.url | relative_url }}" class="image fit"><img src="{{ article.image | relative_url }}" alt="" /></a>
+						<p>{{ article.excerpt }}</p>
 						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+							<li><a href="{{ article.url | relative_url }}" class="button">Read More</a></li>
 						</ul>
-					</div>
-
-				<!-- Header -->
-					<header id="header">
-						<a href="{{ "/" | relative_url }}" class="logo">
-							{{site.title}}
-						</a>
-					</header>
-
-				<!-- Nav -->
-				{% include nav.html %}
-
-				<!-- Main -->
-					<div id="main">
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<h2><a href="#header">Hypnotherapy</a></h2>
-									<p>Whether you are completely new to hypnotherapy or a life-long advocate, this website will hopefully provide you with the answers to any questions you have.</p>
-								</header>
-								<a href="#" class="image main"><img src="{{ "/images/Bongo_2853 Sharp Minds Advert (Specializing) - Land.jpg" | relative_url }}" alt="" /></a>
-								<p style="text-align: justify;">I have provided an <span style="text-decoration: underline;"><strong><a href="hypnotherapy-faq/index.html">FAQ</a></strong></span> 
-									(Frequently Asked Questions) page which provides answers to some of the most commonly asked questions such as 
-									<strong>‘What if I get stuck in hypnosis?’</strong> or <strong>‘Will it work for me?’</strong>. 
-									There is also information on me, your <span style="text-decoration: underline;"><strong><a href="{{ "/about/" | relative_url}}">Therapist</a></strong></span> , and my qualifications and personal motivations for practising hypnotherapy.</p>
-								<p style="text-align: justify;"><a href="https://en.wikipedia.org/wiki/Hypnotherapy">Hypnosis</a> is a non-invasive therapeutic intervention, that sits under the Psychological Therapies umbrella. It is perhaps best described as both a science and an art. If you are interested in this aspect of hypnosis, then you can check out my page on <span style="text-decoration: underline;"><strong><a href="blog/mind-body-link/">The Mind-Body Link</a></strong></span> . If you are more interested in the results it can produce, then you may like to check out my <span style="text-decoration: underline;"><strong><a href="client-feedback/index.html">Feedback</a></strong></span> page.</p>
-								<p style="text-align: justify;">I have a therapy room in Winchester and cover a wide range of presenting symptoms including stress and anxiety, weight loss, smoking cessation and depression. For a full list please see my page on <span style="text-decoration: underline;"><strong><a href="hypnotherapy-uses/index.html">Common Uses</a></strong></span> of hypnotherapy.</p>
-								<p style="text-align: justify;">Should you have any questions or wish to make an appointment for a telephone consultation, please <strong>contact me on 07807 054 706</strong> or email me at <a href="#contact"><strong>{{ site.email }}</strong></a>.</p>
-							</article>
-
-						<!-- Posts -->
-							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | relative_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
-
-  								</article>
-                  {% endif %}
-                {% endfor %}
-
-							</section>
-
-						<!-- Footer -->
-						<footer>
-							<ul class="actions">
-							<li><a href="{{ "/blog/" | relative_url }}" class="button">Our Blog</a></li>
-							</ul>
-						</footer>
-					</div>
+					</article>
+				{% endfor %}
+				{% for post in site.posts limit:1 %}
+					<article>
+						<header>
+							<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+							<span class="date">Latest Blog Post - {{ post.date | date_to_string }}</span>
+						</header>
+						<a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
+						<p>{{ article.excerpt }}</p>
+						<ul class="actions">
+							<li><a href="{{ post.url | relative_url }}" class="button">Read More</a></li>
+						</ul>
+					</article>
+				{% endfor %}
+				</section>
 
 				<!-- Footer -->
-        {% include foot.html %}
-
+				<footer>
+					<ul class="actions">
+					<li><a href="{{ "/blog/" | relative_url }}" class="button">Our Blog</a></li>
+					</ul>
+				</footer>
 			</div>
+
+			<!-- Footer -->
+        	{% include foot.html %}
+
+		</div>
 
 		<!-- Scripts -->
 		{% include scripts-main.html %}

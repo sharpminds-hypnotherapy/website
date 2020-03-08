@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Why I insist on a pre-consultation
-date:   2020-02-16
 excerpt: Some people – and I have to admit they are mostly other therapists – ask me why I always insist on a pre-consultation meeting. Well I’m going to be honest with you... 
 image: "/images/pre-consultations.jpg"
 ---
