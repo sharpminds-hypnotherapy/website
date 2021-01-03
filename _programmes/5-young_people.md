@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Children & Young People
+title: Young People
 excerpt: Does your child need someone to talk to? Are you worried about their behaviour, sleep, habits? Hynotherapy is a quick and drug-free way to resolve issues like hair pulling, enuresis, bed wetting, anxiety etc.
 image: "/images/wood-bridge-cute-sitting-39369.jpg"
 ---

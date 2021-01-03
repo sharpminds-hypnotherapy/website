@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Smoking Cessation
+title:  Smoking & Vaping
 excerpt: Investing in the Sharp Minds Stop Smoking programme can save you money as well as your health. In just 39 smoke-free days, someone who smokes twenty-a-day will have recovered the value of their financial investment. How can that not make sense?
 image: "/images/peter-g-xz-KszOh1AU-unsplash (1).jpg"
 ---
