@@ -2,11 +2,12 @@
   <ul class="links">
     <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/#header" | relative_url }}">Home</a></li>
     <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | relative_url }}">Julie Sharp</a></li>
-    <li class="{% if page.url contains '/articles/' %} active {% endif %}"><a href="{{ "/articles/" | relative_url }}">Articles</a></li>
     <li class="{% if page.url contains '/programmes/' %} active {% endif %}"><a href="{{ "/programmes/" | relative_url }}">Programmes</a></li>
+    <li class="{% if page.url contains '/articles/' %} active {% endif %}"><a href="{{ "/articles/" | relative_url }}">Articles</a></li>
     <li class="{% if page.url contains '/hypnotherapy-faq/' %} active {% endif %}"><a href="{{ "/hypnotherapy-faq/" | relative_url }}">FAQ</a></li>
     <li class="{% if page.url contains '/hypnotherapy-uses/' %} active {% endif %}"><a href="{{ "/hypnotherapy-uses/" | relative_url }}">Uses</a></li>
     <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | relative_url }}">Blog</a></li>
+    <li class="{% if page.url contains '/client-feedback/' %} active {% endif %}"><a href="{{ "/client-feedback/" | relative_url }}">Feedback</a></li>
   </ul>
   <ul class="links">
     <form action="{{ "/search/" | relative_url }}" method="get">
