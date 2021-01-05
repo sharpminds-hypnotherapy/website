@@ -2,7 +2,7 @@
 layout: post
 title:  Ethical Standards
 excerpt: I am registered with the Complementary and Natural Healthcare Council, a government-supported body that regulates a wide range of complementary therapies. 
-image: "/images/Ethical_Standards.png"
+image: "images/Ethical_Standards.png"
 ---
 You can check out my registration here: www.cnhc.org.uk. As a member of the CNHC, I am bound by its Code of Conduct, Ethics and Performance. The CNHC ensures its members meet National Occupational Standards, are of good character and fit to practise. A duty is placed on me to protect the health and wellbeing of my clients by using the best available research evidence, clinical expertise and taking into consideration the values of my clients. In particular, I am bound to:
 * respect clients’ dignity, individuality and privacy;

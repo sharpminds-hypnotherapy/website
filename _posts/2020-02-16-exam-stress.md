@@ -3,7 +3,7 @@ layout: post
 title:  Overcoming Exam Stress
 date:   2020-02-16
 excerpt: Overcoming exam stress is so important as stress in students can lead to poor academic achievement, apathy, depression and behavioural problems, and at a time when schools are increasingly under pressure and both students and teachers face higher levels of stress.
-image: "/images/exam-stress-1.jpg"
+image: "images/exam-stress-1.jpg"
 ---
 In September 2013 a research study carried out by Edge Hill University, the University of South Australia and the AQA exam board found that teenagers who stress about doing well in their GCSE exams are likely to get lower results than peers who remain calmer. The study was based on a survey of 325 pupils.
 

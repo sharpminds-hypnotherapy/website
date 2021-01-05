@@ -3,7 +3,7 @@ layout: post
 title:  Pregnant? Smoking? Part 1
 date:   2020-02-16
 excerpt: Pregnant and smoking – what are your options? Well the good news is that smoking is the single biggest modifiable risk factor for poor birth outcomes. In other words, it's the thing that will make the biggest difference to the chagnces of your baby being born healthy.  
-image: "/images/Pregnant tummy.jpeg"
+image: "images/Pregnant tummy.jpeg"
 ---
 ## Pregnant and smoking – what are your options? Part One
 

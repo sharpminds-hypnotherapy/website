@@ -3,7 +3,7 @@ layout: post
 title:  Perfectionsim double-edged sword
 date:   2020-02-16
 excerpt: Perfect is good, isn’t it? After all, we are brought up with the phrase, “Practise makes perfect!” ringing in our little ears. And that ring has an indisputably positive connotation. Grandma’s raspberry pies were always cooked to perfection, I remember. Cinderella’s shoe fitted perfectly. The Beautiful South even sang a song called “Perfect ten”.  We think of perfection as having no room for improvement; the thing meets our expectations. We associate it with the setting of high performance standards. That has to be a good thing, doesn’t it?
-image: "/images/practically-perfect.jpg"
+image: "images/practically-perfect.jpg"
 ---
 Well the answer seems to lie in how we interpret it; there are both positive and negative aspects to perfectionism. It can motivate us to reach our goals and feel good about our achievement. But in its maladaptive form (when we use it in an unhelpful way), it can also cause a person to strive for flawlessness and hold unrealistic ideals and goals. The problem occurs when the perfectionist fails to attain their desired goal.
 

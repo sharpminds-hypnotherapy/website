@@ -3,7 +3,7 @@ layout: post
 title:  The Mind-Body Link
 date:   2015-1-31
 excerpt: The mind body link has long been acknowledged, but is perhaps counter-cultural in the Western world which focuses almost exclusively on the biochemistry of the body often to the exclusion of the health of the patient’s mind. However, promoting bodily health without encouraging health of the mind is an exercise in futility.
-image: "/images/mindbody.jpg"
+image: "images/mindbody.jpg"
 ---
 
 We have all heard of people who believe they are ill and show real signs of their imagined affliction. Almost every doctor has witnessed or heard of reports of spontaneous and inexplicable remission from diseases where the prognosis had been utterly without hope.

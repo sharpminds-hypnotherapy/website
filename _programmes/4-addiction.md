@@ -2,7 +2,7 @@
 layout: page
 title:  Overcoming Addiction
 excerpt: An obsessive, uncontrollable and often harmful attachment to an activity, behaviour or substance. Sound familiar to you? We can become addicted to all sorts of things, but the usual suspects are nicotine, drugs, alcohol, gambling, the Internet & social media, and food. It’s estimated some two million people in the UK suffer some kind of addiction. 
-image: "/images/shutterstock_308171639.jpg"
+image: "images/shutterstock_308171639.jpg"
 ---
 ## {{ page.title }}
 

@@ -3,7 +3,7 @@ layout: post
 title:  What are 'Human Givens'?
 date:   2020-02-16
 excerpt: Human Givens is a psychotherapeutic approach which asserts that every human being shares a common biological inheritance of physical and emotional needs. These needs have evolved over millennia and are now programmed into our genetic make-up. They are the driving force behind our ability to successfully respond and adapt to our environment.  
-image: "/images/human-givens-tagline.png"
+image: "images/human-givens-tagline.png"
 ---
 As well as these needs, of which there are nine, nature also gives us a set of innate resources. The Human Givens theory maintains that we seek to fulfil our needs through the way we interact with our environment and that we use the resources given to us by nature to achieve that. It is only when our physical or emotional needs are not being met, or when our resources are being incorrectly used, that we suffer distress.
 

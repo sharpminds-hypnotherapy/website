@@ -3,7 +3,7 @@ layout: post
 title:  Understanding Addiction
 date:   2020-02-15
 excerpt: When I say the word 'addiction', what images or ideas come into your head? What do you think of when you hear that word? I’m asking because I believe that understanding the mechanics and nature of addiction is key in quitting the smoking habit.  
-image: "/images/addictions-auric-attachment-relationships.png"
+image: "images/addictions-auric-attachment-relationships.png"
 ---
 
 ## Understanding additction…

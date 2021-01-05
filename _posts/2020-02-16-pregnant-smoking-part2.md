@@ -3,7 +3,7 @@ layout: post
 title:  Pregnant? Smoking? Part 2
 date:   2020-02-16
 excerpt: In this, second of a two-part blog, I will cover the remaining options if you are pregnant and want to give up the smokes. As I said before, the research can be complex to take in, therefore I am happy to provide more in-depth information and explain studies covering those areas which interest you.  
-image: "/images/Babys feet.jpeg"
+image: "images/Babys feet.jpeg"
 ---
 ## Pregnant and smoking – what are your options? Part Two
 

@@ -3,7 +3,7 @@ layout: post
 title:  Ready to Stop Smoking?
 date:   2020-02-16
 excerpt: Here are 6 pointers to help you on your way.
-image: "/images/gras-grun-6ScKApDyAMQ-unsplash.jpg"
+image: "images/gras-grun-6ScKApDyAMQ-unsplash.jpg"
 ---
 ## Ready to Stop Smoking? – Here are 6 pointers to help you on your way
 

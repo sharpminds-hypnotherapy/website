@@ -14,7 +14,7 @@
 		<div id="wrapper" class="fade-in">
 			<!-- Header -->
 			<header id="header">
-				<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
+				<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 			</header>
 			<!-- Nav -->
 			{% include nav.html %}
@@ -25,12 +25,12 @@
 					{% for prog in site.programmes %}
 					<article>
 						<header>
-							<h3><a href="{{ prog.url | relative_url }}">{{ prog.title }}</a></h3>
+							<h3><a href="{{ prog.url | absolute_url }}">{{ prog.title }}</a></h3>
 						</header>
-						<a href="{{ prog.url | relative_url }}" class="image fit"><img src="{{ prog.image | relative_url }}" alt="" /></a>
+						<a href="{{ prog.url | absolute_url }}" class="image fit"><img src="{{ prog.image | absolute_url }}" alt="" /></a>
 						<p>{{ prog.excerpt }}</p>
 						<ul class="actions">
-							<li><a href="{{ prog.url | relative_url }}" class="button">Find out more</a></li>
+							<li><a href="{{ prog.url | absolute_url }}" class="button">Find out more</a></li>
 						</ul>
 					</article>
 					{% endfor %}

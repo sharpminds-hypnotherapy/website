@@ -3,7 +3,7 @@ layout: post
 title:  In Control of How Much You Drink?
 date:   2020-02-16
 excerpt: Relaxing with a beer or a glass of wine at the end of a hard day’s work, or whilst catching up with friends are typical scenarios in which you will find people enjoying an alcoholic drink. Alcohol per se is not the problem...
-image: "/images/too-much-alcohol.jpg"
+image: "images/too-much-alcohol.jpg"
 ---
 ##Ready to Stop Smoking? – Here are 6 pointers to help you on your way
 

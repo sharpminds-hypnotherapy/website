@@ -3,7 +3,7 @@ layout: post
 title: How to Stop Panic Attacks
 date:   2020-02-15
 excerpt: To understand why we have panic attacks and where they come from, we need first to understand a little bit about how we evolved and, in particular, our fight-or-flight response. That 'thing' which, when we're faced with a threat (e.g. predator), in a split second causes us to put up the fight of a lifetime or else run as fast as we can in the opposite direction. Kill or be killed. Or as Ruby Wax puts it in her book 'Sane New World'...have lunch or be lunch.
-image: "/images/Panic-attack.jpg"
+image: "images/Panic-attack.jpg"
 ---
 
 ## Once upon a time a few millions of years ago…

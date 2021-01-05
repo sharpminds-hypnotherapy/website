@@ -2,7 +2,7 @@
 layout: post
 title:  Why I insist on a pre-consultation
 excerpt: Some people – and I have to admit they are mostly other therapists – ask me why I always insist on a pre-consultation meeting. Well I’m going to be honest with you... 
-image: "/images/pre-consultations.jpg"
+image: "images/pre-consultations.jpg"
 ---
 I don’t insist on a pre-consultation discussion because I have nothing better to do with my time. I insist on it because it provides an opportunity to assess whether you are right for me, whether I am right for you and whether hypnotherapy is what you need, and crucially, if now is the right time to begin working together.
 

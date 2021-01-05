@@ -14,7 +14,7 @@
 		<div id="wrapper" class="fade-in">
 			<!-- Header -->
 			<header id="header">
-				<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
+				<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 			</header>
 			<!-- Nav -->
 			{% include nav.html %}
@@ -25,12 +25,12 @@
 					{% for article in site.articles %}
 					<article>
 						<header>
-							<h3><a href="{{ article.url | relative_url }}">{{ article.title }}</a></h3>
+							<h3><a href="{{ article.url | absolute_url }}">{{ article.title }}</a></h3>
 						</header>
-						<a href="{{ article.url | relative_url }}" class="image fit"><img src="{{ article.image | relative_url }}" alt="" /></a>
+						<a href="{{ article.url | absolute_url }}" class="image fit"><img src="{{ article.image | absolute_url }}" alt="" /></a>
 						<p>{{ article.excerpt }}</p>
 						<ul class="actions">
-							<li><a href="{{ article.url | relative_url }}" class="button">Read More</a></li>
+							<li><a href="{{ article.url | absolute_url }}" class="button">Read More</a></li>
 						</ul>
 					</article>
 					{% endfor %}

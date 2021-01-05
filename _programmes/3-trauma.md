@@ -2,7 +2,7 @@
 layout: page
 title:  Trauma Programme
 excerpt: Do you have an overwhelming and debilitating fear of something? An object or place or situation, perhaps? Do you avoid taking foreign holidays because you hate flying? Do you experience palpitations when you see a balloon, clown or dog? Do you find you can't eat or speak in front of others? Would you describe yourself as 'terrified' of the dentist? If so, then you are not alone; it is estimated there are around 10 million such suffers in the UK alone.
-image: "/images/alexandra-gorn-smuS_jUZa9I-unsplash (1).jpg"
+image: "images/alexandra-gorn-smuS_jUZa9I-unsplash (1).jpg"
 ---
 ## {{ page.title }}
 

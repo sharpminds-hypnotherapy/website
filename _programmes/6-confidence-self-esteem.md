@@ -2,7 +2,7 @@
 layout: page
 title:  Self-confidence & self-esteem
 excerpt: The terms 'self-esteem' and 'self-confidence' are often used interchangeably when we describe how we feel about ourselves. However, although self-confidence is related to self-esteem, they are two different concepts. Unlike self-esteem, which describes how we feel about ourselves as a whole, self-confidence is the level of trust we have in our abilities, our sense of judgement and personal qualities.
-image: "/images/shutterstock_48675874.jpg"
+image: "images/shutterstock_48675874.jpg"
 ---
 ## {{ page.title }}
 

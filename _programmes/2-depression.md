@@ -2,7 +2,7 @@
 layout: page
 title: Depression Programme
 excerpt: Anxiety and depression are often linked but they are not the same thing. Most people experience some form of anxiety when facing particularly stressful situations but anxiety disorders are severe and can disrupt the day-to-day life of an individual. Depression is a common psychological disorder and is more than just feeling unhappy, bored or fed up. There isn't a single cause of depression, but hypnotherapy is gaining wider recognition as a depression treatment as it seeks to uncover the root cause of the negative feelings and emotion, thus removing the symptoms of depression.
-image: "/images/adult-alone-anxious-black-and-white-568027.jpg"
+image: "images/adult-alone-anxious-black-and-white-568027.jpg"
 ---
 ## {{ page.title }}
 

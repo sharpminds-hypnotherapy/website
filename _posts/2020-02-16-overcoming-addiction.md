@@ -3,7 +3,7 @@ layout: post
 title:  Overcome Addiction
 date:   2020-02-16
 excerpt: Does this sound familiar to you? "An obsessive, uncontrollable and often harmful attachment to an activity, behaviour or substance." We can become addicted to all sorts of things, but the usual suspects are nicotine, drugs, alcohol, gambling, the Internet & social media, and food. It’s estimated some two million people in the UK suffer some kind of addiction. 
-image: "/images/alcohol-how-much-too-much.jpg"
+image: "images/alcohol-how-much-too-much.jpg"
 ---
 Understanding how addictive behaviours develop can be helpful for spotting the signs and knowing when to seek help. An addiction typically starts out as experimentation which then, through regular use, develops into a habit. Although initially the habit may appear a benign and temporary form of relief or escape, with frequent use, it can quickly escalate. At this stage warning signs will start to appear and risky behaviours may emerge. Over time, the individual will find they can no longer function normally or happily without taking the particular substance or indulging in the activity. Withdrawal symptoms are normally strong and despite the negative consequences of their behaviour and the impact of their quality of life, the individual cannot usually give up.
 

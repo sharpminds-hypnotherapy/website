@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About Julie Sharp
 
-<span class="image left"><img src="{{ "/images/JuliePics/20200930_Sharp_Julie_100rPOLO-SCARF-CLOSED.jpg" | relative_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "images/JuliePics/20200930_Sharp_Julie_100rPOLO-SCARF-CLOSED.jpg" | absolute_url }}" alt="" /></span>
 
 My name is **Julie Sharp** and I founded **Sharp Minds Hypnotherapy** in order to **help people change their lives** for the better.
 

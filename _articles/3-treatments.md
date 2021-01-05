@@ -2,7 +2,7 @@
 layout: post
 title:  Treatments Offered
 excerpt: Though I refer to myself as a hypnotherapist, I use a much wider set of therapeutic interventions than just hypnosis. All the treatments I use in my practice are natural, non-invasive and use no medications. They simply rely upon the fact that the mind and body are connected, and the unconscious mind knows intuitively how to heal the body.  
-image: "/images/Treatments_Diagram.png"
+image: "images/Treatments_Diagram.png"
 ---
 ## Hypnotherapy
 Hypnotherapy was my starting point and remains my passion. The ability to be hypnotized is universal - we hypnotise ourselves all the time. Sometimes positively, sometimes negatively, unfortunately. Hypnosis really just means being in a focussed state of attention. In that state, a person's peripheral awareness is reduced and their suggestibility is increased. We can make use of this to good effect.

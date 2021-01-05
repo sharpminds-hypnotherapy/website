@@ -3,7 +3,7 @@ layout: post
 title:  Had a Smoking Slip-up?
 date:   2020-02-16
 excerpt: Caving in and having a smoke after you’ve given up is not the end of the world, and neither is it an excuse to start the smoking habit again.  Here are some tips if you’ve momentarily lost your footing
-image: "/images/Banner-Jellybean.jpg"
+image: "images/Banner-Jellybean.jpg"
 ---
 ## How to get over a smoking ‘slip-up’ 
 
